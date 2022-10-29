@@ -1,1 +1,1 @@
-# Trilha JS Developer - Pokedex
+# Projeto prático Javascript - Pokedex (Orange Tech - DIO).
